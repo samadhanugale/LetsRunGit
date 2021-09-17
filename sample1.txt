@@ -2,3 +2,4 @@ Sample1.txt created
 added some sample text
 
 Sample text added through Eclipse
+added by vinay
